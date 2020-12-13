@@ -1,0 +1,18 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#header {
+    position: relative;
+    padding: 0;
+}
+#logo {
+    height: 60px;
+    width: 240px;
+    margin-left: 16px;
+    display: block;
+    background: url(/themes/default/images/logo.svg) no-repeat left center;
+    overflow: hidden;
+    background-size: auto 48px;
+    text-indent: -300px;
+}
